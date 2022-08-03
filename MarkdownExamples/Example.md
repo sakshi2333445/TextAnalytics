@@ -1,3 +1,27 @@
+### Code block
+``` python
+def add():
+      sum=a+b
+```
+
+``` html
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+
+<p>My first paragraph.</p>
+
+</body>
+</html>
+
+```
+
+
+
+
+
 Andorid | iOS | Windows
 ------ | :-----: | ------:
 Medium App for Android | Medium App for iOS | Medium App for Windows
